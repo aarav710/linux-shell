@@ -1,0 +1,5 @@
+# ninja log v5
+6	60	1683173019849448142	build.ninja	efc81161cdf1d07c
+0	435	1683173020290314618	CMakeFiles/linux-shell.dir/commands.cpp.o	5721e194ee95d1bc
+0	476	1683173020331392909	CMakeFiles/linux-shell.dir/main.cpp.o	403cb902b44c59b6
+476	512	1683173020369557998	linux-shell	f153705b8a296b89

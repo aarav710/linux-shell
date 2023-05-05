@@ -1,0 +1,5 @@
+if(EXISTS "/Users/aaravjain/Desktop/linux-shell/build/linux-shell[1]_tests.cmake")
+  include("/Users/aaravjain/Desktop/linux-shell/build/linux-shell[1]_tests.cmake")
+else()
+  add_test(linux-shell_NOT_BUILT linux-shell_NOT_BUILT)
+endif()
