@@ -9,7 +9,7 @@ using namespace std;
 void tokenize(char delimiter, string& s, vector<string>& inputs);
 string get_stem(string path);
 
-int main(int argc, char **argv) {
+int main() {
     history history;
     const char delimiter = ' ';
 
